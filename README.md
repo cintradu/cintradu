@@ -1,4 +1,4 @@
-  ## </🤖 cintradu 🤖>
+  ## </cintradu 🤖>
 
 <div align="center">
   <a href="https://github.com/cintradu">
