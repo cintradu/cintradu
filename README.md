@@ -6,7 +6,7 @@
 
 - 📚 Engenharia de Computação - USP São Carlos
 - 👨‍💻 Desenvolvendo projeto na área de Inteligência Artificial
-- ⚛️ Interessado em Computação Quântica
+- ⚛️ Interessado em Robótica e Sistemas Embarcados
 - 🖥️ Software + Hardware
 - 🤝 Acesse: **[LinkedIn]**
 
