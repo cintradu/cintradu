@@ -5,7 +5,7 @@
 </a>
 
 - 📚 Engenharia Civil - USP São Carlos
-- ⚛️ Inteligência Artificial e Transportes
+- ⚛️ Inteligência Artificial e Geotecnia
 - 🤝 Acesse: **[LinkedIn]**
 
 <div style="display: inline_block"><br>
