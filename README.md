@@ -5,7 +5,8 @@
 </a>
 
 - 📚 Engenharia Civil - USP São Carlos
-- ⚛️ Inteligência Artificial e Geotecnia
+- ⚛️ Machine Learning
+- ➡️​ Hidráulica e Saneamento
 - 🤝 Acesse: **[LinkedIn]**
 
 <div style="display: inline_block"><br>
